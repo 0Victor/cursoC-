@@ -28,7 +28,7 @@ namespace CursoCSharp.Fundamentos {
 
             int resultado = (baseNum * alturaNum) / 2;
 
-            Console.WriteLine($"A área é: {resultado}");
+            Console.WriteLine($"O resultado da área é: {resultado}");
 
 
 
